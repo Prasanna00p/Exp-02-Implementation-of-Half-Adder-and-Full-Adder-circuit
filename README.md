@@ -1,3 +1,5 @@
+## Developed by: SAKTHIVEL R
+## RegisterNumber: 212222100044
 # Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
