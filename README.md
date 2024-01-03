@@ -1,5 +1,5 @@
-## Developed by: SAKTHIVEL R
-## RegisterNumber: 212222100044
+## Developed by: sri lakshman
+## RegisterNumber: 23004121
 ## Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -38,8 +38,6 @@ If the output is 1, then the led glows.
 ### Program:
 
 ## Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-## Developed by: SAKTHIVEL R
-## RegisterNumber:  212222100044
 ## HALF ADDER:
 ```
 module exp33(a,b,s,c);
