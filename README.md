@@ -1,5 +1,5 @@
-## Developed by: sri lakshman
-## RegisterNumber: 23004121
+## Developed by: prasanna
+## RegisterNumber: 23003719
 ## Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
